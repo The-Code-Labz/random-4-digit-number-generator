@@ -1,0 +1,13 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "Generates a random 4-digit number",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.9"
+  }
+}
